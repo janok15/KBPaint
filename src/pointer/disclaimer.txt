@@ -1,0 +1,4 @@
+The majority of the icons are slightly modified versions of the icons from MacPaint, and Photoshop.
+
+The color icon for the program is designed by Nick Roach from Elegant Themes, used under the
+GNU General Public License.
