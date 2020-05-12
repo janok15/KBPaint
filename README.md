@@ -1,5 +1,5 @@
 # KBPaint
-This was my student project for DAT113 Software Development I.
+This was my student project for DAT113 Software Development 1.
 
 One of the available tasks was to make a paint program in Java. I made a replica of the original MacPaint, with a few added extras.
 
